@@ -14,7 +14,7 @@ jobs:
           DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         with:
           args: |
-            📦 **New Resource Pack Release!**
+            📦 **New My Ticket Update Resource Pack Release!**
             
             **${{ github.event.release.name }}**
             
