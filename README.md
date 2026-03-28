@@ -1,2 +1,2 @@
 # my-ticket-bedrock
-This will replace the light_block_0 texture with a ticket texture, use an anvil to change its name to a ticket! For Java, it's in here in snapshot form too! Update: Development has began again for Bedrock and moved here to github! Download here: https://github.com/Blazer1009/my-ticket-bedrock/releases/tag/1.26.3
+This will replace the light_block_0 texture with a ticket texture, use an anvil to change its name to a ticket! Update: Development has began again for Bedrock and moved here to github! (Last Time I will say this) Download here: N/A
