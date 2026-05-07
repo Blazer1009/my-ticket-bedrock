@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "+ Title Screen and 1.26.20 support",
+    "name": "My Ticket By Blazer1009 Full Release 1.26.20",
+    "platform_locked": false,
+    "uuid": "98d3484f-2c6f-4086-993b-8061ffc76173",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "+ Title Screen and 1.26.20 support",
+      "type": "resources",
+      "uuid": "20b256d0-7f1d-4da2-927e-fb9963ba3150",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
