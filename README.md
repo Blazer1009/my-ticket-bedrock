@@ -1,3 +1,3 @@
 # my-ticket-bedrock
-This will replace the light_block_0 texture with a ticket texture, use an anvil to change its name to a ticket! Download here: https://github.com/Blazer1009/my-ticket-bedrock/releases/tag/1.26.20 .
+This will replace the light_block_0 texture with a ticket texture, use an anvil to change its name to a ticket! Download here for 1.26.21: https://github.com/Blazer1009/my-ticket-bedrock/releases/tag/1.26.21 .
 This simple Minecraft Java resource pack replaces the Light 0 texture with a ticket design. Rename the item to “Ticket” in an anvil and it will look like a ticket but with orange and reflections, perfect for servers, events, or custom maps by using the no extra modifications version. The extra modifications version will make the resource pack even more fun with a custom Title logo and more!
