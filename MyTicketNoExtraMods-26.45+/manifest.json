@@ -1,0 +1,26 @@
+{
+  "format_version": 1,
+  "header": {
+    "description": "No Extra Modifications",
+    "name": "My Ticket By Blazer1009 Full Release No Extra Modifications 26.45+",
+    "platform_locked": false,
+    "uuid": "93dbf041-20a8-45a5-a137-d7883829f5c8",
+    "version": [
+      0,
+      0,
+      1
+    ]
+  },
+  "modules": [
+    {
+      "description": "No Extra Modifications",
+      "type": "resources",
+      "uuid": "97ed7db8-2637-40be-a02d-ebe4321c64e2",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
