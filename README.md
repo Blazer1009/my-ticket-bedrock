@@ -2,7 +2,7 @@
 
 Turn the **Light Block (Light 0)** into a custom ticket! Simply use an anvil to rename the item to **“Ticket”**, and it will transform into a ticket design.
 
-The resource pack is available for **Minecraft Bedrock 26.45**!
+The resource pack is available for **Minecraft Bedrock 26.51**!
 
 This simple Minecraft Bedrock resource pack replaces the **`light_block_0`** texture with a custom ticket design featuring an orange colour scheme and reflective details. It’s perfect for **servers, events, custom maps, and other creative projects**.
 
@@ -24,6 +24,6 @@ This simple Minecraft Bedrock resource pack replaces the **`light_block_0`** tex
 5. Once installed, activate the pack in your world or global resource settings.
 6. Use an anvil to rename a **Light Block (Light 0)** to **“Ticket”** and enjoy your new ticket!
 
-**Download:** https://github.com/Blazer1009/my-ticket-bedrock/releases/tag/26.45
+**Download:** https://github.com/Blazer1009/my-ticket-bedrock/releases/tag/26.51
 
 **Website:** https://blazer1009.github.io/resource-packs-bedrock/
